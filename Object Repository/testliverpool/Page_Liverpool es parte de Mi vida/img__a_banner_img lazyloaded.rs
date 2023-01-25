@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__a_banner_img lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>abfbeb0a-d56d-4003-af1d-8a22b0976819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item-col3 > a.m-mainBanner__link > picture > img.a_banner_img.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bannerNo-2']/section[2]/div[2]/a/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ffaf6e13-9e03-44e1-9813-3557cd40481e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a_banner_img lazyloaded</value>
+      <webElementGuid>e80e8567-22a3-4e85-aceb-b6485cf92c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/dic22/bpromo01b_190123ropejhom.jpg</value>
+      <webElementGuid>4b689ce5-8180-471a-a2de-6f1605049f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Ropa deportivo para hombre | Liverpool</value>
+      <webElementGuid>82631046-478a-4b26-956f-48e243757c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ropa deportivo para hombre | Liverpool</value>
+      <webElementGuid>d3b10ad7-d141-4a71-923b-96158da82feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bannerNo-2&quot;)/section[@class=&quot;o-container-grid-3 my-0&quot;]/div[@class=&quot;item-col3&quot;]/a[@class=&quot;m-mainBanner__link&quot;]/picture[1]/img[@class=&quot;a_banner_img lazyloaded&quot;]</value>
+      <webElementGuid>8a480bcf-c4c1-4f9a-b3d3-68e82d90c2b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bannerNo-2']/section[2]/div[2]/a/picture/img</value>
+      <webElementGuid>f7300857-fe92-4545-8898-01a55af107cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Ropa deportivo para hombre | Liverpool']</value>
+      <webElementGuid>49da6746-5cd9-422c-ac74-b0dadefa9772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/picture/img</value>
+      <webElementGuid>deee3082-cadc-4bff-ba3a-f4052e76f6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assetspwa.liverpool.com.mx/assets/digital/home/img/dic22/bpromo01b_190123ropejhom.jpg' and @alt = 'Ropa deportivo para hombre | Liverpool' and @title = 'Ropa deportivo para hombre | Liverpool']</value>
+      <webElementGuid>9a01795d-6fb7-40a8-8a63-9c852918b39b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
